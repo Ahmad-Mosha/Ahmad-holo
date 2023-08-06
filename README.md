@@ -9,6 +9,9 @@ I'm a passionate Computer Science student currently in my third year of studies,
 
 Pursuing a Bachelor's degree in Computer Science (Expected Graduation: 2025/08)
 Completed various courses in artificial intelligence, data structures, algorithms, and software engineering.
+
+
+
 💻 Tech Stack
 
 
@@ -16,6 +19,9 @@ Programming Languages: Python, Java, C++, C#, javascript, Typescript, Dart
 Backend Frameworks: Nestjs, Express
 Databases: MySQL, MongoDB, Postgresql
 Version Control: Git
+
+
+
 🤖 AI Enthusiast
 
 
